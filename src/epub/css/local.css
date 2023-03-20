@@ -2,7 +2,7 @@
 @namespace epub "http://www.idpf.org/2007/ops";
 @namespace xml "http://www.w3.org/XML/1998/namespace";
 
-body [xml|lang]{
+blockquote[xml|lang]{
 	font-style: italic;
 }
 
@@ -29,23 +29,22 @@ abbr[epub|type~="se:era"]{
 	display: none;
 }
 
-[epub|type~="z3998:poem"] p + p,
-[epub|type~="z3998:verse"] p + p{
+[epub|type~="z3998:poem"] p + p{
 	margin-top: 1em;
 }
 
-/* Indent the first line of stanzas. */
 [epub|type~="z3998:poem"] p > span:first-child{
+	/* Indent the first line of stanzas */
 	text-indent: 0;
+}
+
+#chaucers-tale-of-sir-thopas-main p > span:first-child{
+	/* Remove first line indent in Chaucer’s Tale of Sir Thopas */
+	text-indent: -1em;
 }
 
 p span.i1{
 	padding-left: 2em;
-	text-indent: -1em;
-}
-
-p span.i2{
-	padding-left: 3em;
 	text-indent: -1em;
 }
 
