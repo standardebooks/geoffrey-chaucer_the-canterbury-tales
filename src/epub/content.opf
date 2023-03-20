@@ -37,42 +37,46 @@
 		<meta property="term" refines="#subject-2">sh2008100692</meta>
 		<meta property="authority" refines="#subject-3">LCSH</meta>
 		<meta property="term" refines="#subject-3">sh85043933</meta>
-		<meta property="se:subject">TAG</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<meta property="se:subject">Poetry</meta>
+		<dc:description id="description">A group of pilgrims trade tales as they travel through medieval England.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;&lt;i&gt;The Canterbury Tales&lt;/i&gt; is a collection of 24 stories written in Middle English by &lt;a href="https://standardebooks.org/ebooks/geoffrey-chaucer"&gt;Geoffrey Chaucer&lt;/a&gt;. The tales are presented as a storytelling contest by a group of pilgrims on a journey from Southwark to the shrine of Saint Thomas Becket at Canterbury Cathedral. Each pilgrim tells a story to pass the time, and their tales range from bawdy and humorous to serious and moralistic. The pilgrims represent a cross section of medieval English society; the characters include a knight, a prioress, a miller, a cook, a merchant, a monk, a nun, a pardoner, a friar, and a host, among others. &lt;i&gt;The Canterbury Tales&lt;/i&gt; is an important work of literature that offers insights into medieval English society and culture, while also showcasing Chaucer’s literary genius and his enduring influence on the English language and literary tradition.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/2383</dc:source>
-		<dc:source>IA_URL</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
+		<dc:source>https://catalog.hathitrust.org/Record/102667113</dc:source>
+		<meta property="se:production-notes">The poem uses forced rhymes, making in hard to understand.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Canterbury_Tales</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/geoffrey-chaucer_the-canterbury-tales</meta>
 		<dc:creator id="author">Geoffrey Chaucer</dc:creator>
 		<meta property="file-as" refines="#author">Chaucer, Geoffrey</meta>
-		<meta property="se:name.person.full-name" refines="#author">CONTRIBUTOR_FULL_NAME</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Geoffrey_Chaucer</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79027228</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URI</meta>
+		<dc:contributor id="editor">David Laing Purves</dc:contributor>
+		<meta property="file-as" refines="#editor">Purves, David Laing</meta>
+		<meta property="se:url.authority.nacoaf" refines="#editor">http://id.loc.gov/authorities/names/n85252372</meta>
+		<meta property="se:role" refines="#edior" scheme="marc:relators">ann</meta>
+		<meta property="role" refines="#edior" scheme="marc:relators">edt</meta>
+		<dc:contributor id="artist">Hans Thoma</dc:contributor>
+		<meta property="file-as" refines="#artist">Thoma, Hans</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Hans_Thoma</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n84020178</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
-		<dc:contributor id="transcriber-1">TRANSCRIBER</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">TRANSCRIBER_SORT</meta>
-		<meta property="se:url.homepage" refines="#transcriber-1">TRANSCRIBER_URL</meta>
+		<dc:contributor id="transcriber-1">Donal O’Danachair</dc:contributor>
+		<meta property="file-as" refines="#transcriber-1">O’Danachair, Donal</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
-		<dc:contributor id="producer-1">PRODUCER</dc:contributor>
-		<meta property="file-as" refines="#producer-1">PRODUCER_SORT</meta>
-		<meta property="se:url.homepage" refines="#producer-1">PRODUCER_URL</meta>
+		<dc:contributor id="producer-1">Emma Sweeney</dc:contributor>
+		<meta property="file-as" refines="#producer-1">Sweeney, Emma</meta>
+		<meta property="se:url.homepage" refines="#producer-1">https://www.linkedin.com/in/emma-sweeney-554927190/</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">cov</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">pfr</meta>
+		<meta property="se:role" refines="#producer-1" scheme="marc:relators">trc</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">tyg</meta>
 	</metadata>
 	<manifest>
