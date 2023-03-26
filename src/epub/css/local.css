@@ -10,6 +10,11 @@ abbr[epub|type~="se:era"]{
 	font-variant: all-small-caps;
 }
 
+hr{
+	border: none;
+	margin: 0.5em auto;
+}
+
 /* Poem, verse */
 [epub|type~="z3998:poem"] p,
 [epub|type~="z3998:verse"] p{
@@ -27,10 +32,6 @@ abbr[epub|type~="se:era"]{
 [epub|type~="z3998:poem"] p > span + br,
 [epub|type~="z3998:verse"] p > span + br{
 	display: none;
-}
-
-[epub|type~="z3998:poem"] p + p{
-	margin-top: 1em;
 }
 
 [epub|type~="z3998:poem"] p > span:first-child{
