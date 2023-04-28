@@ -40,11 +40,6 @@ hr{
 	text-indent: 0;
 }
 
-#chaucers-tale-of-sir-thopas-main p > span:first-child{
-	/* Remove first line indent in Chaucer’s Tale of Sir Thopas */
-	text-indent: -1em;
-}
-
 p span.i1{
 	padding-left: 2em;
 	text-indent: -1em;
@@ -58,5 +53,14 @@ p span.i5{
 span.elision{
 	margin: .5em;
 	margin-left: 3em;
+}
+
+/* Chaucer’s Tale of Sir Thopas */
+#chaucers-tale-of-sir-thopas-body p > span:first-child{
+	text-indent: -1em;
+}
+
+#chaucers-tale-of-sir-thopas-body p + p{
+	margin-top: 1em;
 }
 /* End poem, verse */
