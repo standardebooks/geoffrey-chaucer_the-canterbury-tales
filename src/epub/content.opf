@@ -58,8 +58,8 @@
 		<dc:contributor id="editor">David Laing Purves</dc:contributor>
 		<meta property="file-as" refines="#editor">Purves, David Laing</meta>
 		<meta property="se:url.authority.nacoaf" refines="#editor">http://id.loc.gov/authorities/names/n85252372</meta>
-		<meta property="se:role" refines="#edior" scheme="marc:relators">ann</meta>
-		<meta property="role" refines="#edior" scheme="marc:relators">edt</meta>
+		<meta property="se:role" refines="#editor" scheme="marc:relators">ann</meta>
+		<meta property="role" refines="#editor" scheme="marc:relators">edt</meta>
 		<dc:contributor id="artist">Hans Thoma</dc:contributor>
 		<meta property="file-as" refines="#artist">Thoma, Hans</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Hans_Thoma</meta>
