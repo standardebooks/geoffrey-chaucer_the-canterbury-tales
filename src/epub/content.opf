@@ -38,6 +38,8 @@
 		<meta property="authority" refines="#subject-3">LCSH</meta>
 		<meta property="term" refines="#subject-3">sh85043933</meta>
 		<meta property="se:subject">Poetry</meta>
+		<meta id="collection-3" property="belongs-to-collection">Encyclopædia Britannica’s Great Books of the Western World</meta>
+		<meta property="collection-type" refines="#collection-3">set</meta>
 		<dc:description id="description">A group of pilgrims trade tales as they travel through medieval England.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;i&gt;The Canterbury Tales&lt;/i&gt; is a collection of twenty-four stories written in Middle English by &lt;a href="https://standardebooks.org/ebooks/geoffrey-chaucer"&gt;Geoffrey Chaucer&lt;/a&gt;. The tales are presented as a storytelling contest by a group of pilgrims on a journey from Southwark to the shrine of Saint Thomas Becket at Canterbury Cathedral. Each pilgrim tells a story to pass the time, and their tales range from bawdy and humorous to serious and moralistic.&lt;/p&gt;
