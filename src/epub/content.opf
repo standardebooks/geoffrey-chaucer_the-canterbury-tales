@@ -53,7 +53,7 @@
 		<dc:source>https://catalog.hathitrust.org/Record/102667113</dc:source>
 		<meta property="se:production-notes">Stanzas are indicated by an indent and not preceding white space. hr/ is used for thematic breaks and is styled like a normal stanza break.</meta>
 		<meta property="se:word-count">157917</meta>
-		<meta property="se:reading-ease.flesch">71.78</meta>
+		<meta property="se:reading-ease.flesch">71.89</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Canterbury_Tales</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/geoffrey-chaucer_the-canterbury-tales</meta>
 		<dc:creator id="author">Geoffrey Chaucer</dc:creator>
