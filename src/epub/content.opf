@@ -42,7 +42,7 @@
 		<meta property="schema:genre">Poetry</meta>
 		<meta id="collection-3" property="belongs-to-collection">Encyclopædia Britannica’s Great Books of the Western World</meta>
 		<meta property="collection-type" refines="#collection-3">set</meta>
-		<dc:abstract>A group of pilgrims trade tales as they travel through medieval England.</dc:abstract>
+		<meta property="schema:abstract">A group of pilgrims trade tales as they travel through medieval England.</meta>
 		<dc:description>
 			&lt;p&gt;&lt;i&gt;The Canterbury Tales&lt;/i&gt; is a collection of twenty-four stories written in Middle English by &lt;a href="https://standardebooks.org/ebooks/geoffrey-chaucer"&gt;Geoffrey Chaucer&lt;/a&gt;. The tales are presented as a storytelling contest by a group of pilgrims on a journey from Southwark to the shrine of Saint Thomas Becket at Canterbury Cathedral. Each pilgrim tells a story to pass the time, and their tales range from bawdy and humorous to serious and moralistic.&lt;/p&gt;
 			&lt;p&gt;The stories provide valuable insights into medieval English society as they explore social class, religion, and morality. The pilgrims represent a cross-section of medieval English society: they include a knight, a prioress, a miller, a cook, a merchant, a monk, a nun, a pardoner, a friar, and a host, among others. Religion and morals play an important part of these stories, as the characters are often judged according to their actions and adherence to moral principles.&lt;/p&gt;
